@@ -16,9 +16,9 @@ let valu =marks.indexOf(75);
 console.log(valu);
 
 // Mutating or Modifying arrays
-// marks.push(3564);
-// marks.unshift(1009);
-// marks.pop();
-// marks.splice(1,2);
-// marks.reverse();
+marks.push(3564);
+marks.unshift(1009);
+marks.pop();
+marks.splice(1,2);
+marks.reverse();
 console.log(marks);
